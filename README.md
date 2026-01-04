@@ -59,7 +59,7 @@ game-recommender/
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/aakash-test7/GameRecommender.git
+   git clone https://github.com/aakash-kharb/GameRecommender.git
    cd game-recommender
    ```
 
@@ -163,4 +163,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-**Happy gaming!** 🎮 If you have any questions, [@Aakash](https://github.com/aakash-test7)
+**Happy gaming!** 🎮 If you have any questions, [@Aakash](https://github.com/aakash-kharb)
