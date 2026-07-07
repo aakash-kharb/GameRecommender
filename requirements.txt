@@ -1,0 +1,11 @@
+streamlit
+pandas
+numpy
+scikit-learn
+plotly
+joblib
+streamlit-community-navigation-bar==4.4.1
+selenium==1.45
+webdriver-manager
+beautifulsoup4
+requests
